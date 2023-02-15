@@ -1,0 +1,18 @@
+ProjectId,ProjectName,EmployeeLogin,EmployeeName,Contractor,DepartmentManagerLogin,DepartmentManagerName,EffortForPeriod,EffortTotal,BeginDate,EndDate,NodeType
+2427,ABtasty-BigData-Dataflow-ODC,anazarov,Aleksandr Nazarov,false,ngerasimov,Nikolay Gerasimov,40,40,2023-02-06,2023-02-10,PROJECT_ASSIGNMENT
+2427,ABtasty-BigData-Dataflow-ODC,ashumilov,Aleksandr Shumilov,false,pvaynmaster,Pavel Vaynmaster,40,40,2023-02-06,2023-02-10,PROJECT_ASSIGNMENT
+2427,ABtasty-BigData-Dataflow-ODC,azaikov,Alexander Zaikov,false,bryz,Vitaly Bryzgalov,40,40,2023-02-06,2023-02-10,PROJECT_ASSIGNMENT
+2427,ABtasty-BigData-Dataflow-ODC,esizikov,Evgeny Sizikov,false,pvaynmaster,Pavel Vaynmaster,40,115.75,2023-02-06,2023-02-10,PROJECT_ASSIGNMENT
+2427,ABtasty-BigData-Dataflow-ODC,lkostyleva,Lyudmila Kostyleva,false,katya,Ekaterina Ilnitskaya,40,40,2023-02-06,2023-02-10,PROJECT_ASSIGNMENT
+2427,ABtasty-BigData-Dataflow-ODC,vshikova,Valeriya Shikova,false,ngerasimov,Nikolay Gerasimov,24,24,2023-02-06,2023-02-09,PROJECT_ASSIGNMENT
+2628,Ginkoia-Prebooking-Update-FP,aristov,Andrey Aristov,false,pvaynmaster,Pavel Vaynmaster,144,609.5,2023-02-01,2023-02-28,PROJECT_ASSIGNMENT
+5,HR,andriyanova,Anastasiya Andriyanova,false,juliet_nekhor,Yulia Palkina,144,5640.25,2023-02-01,2023-02-28,PROJECT_ASSIGNMENT
+5,HR,atatarintsev,Artem Tatarintsev,false,ngerasimov,Nikolay Gerasimov,144,439.25,2023-02-01,2023-02-28,PROJECT_ASSIGNMENT
+5,HR,pvaynmaster,Pavel Vaynmaster,false,ilnitsky,Ivan Ilnitsky,1,443.5,2023-02-14,2023-02-14,PROJECT_ASSIGNMENT
+2600,IndigoWeel-Q42022-Java-ODC,svalavin,Sergey Valavin,false,dergachev,Dmitry Dergachev,144,611.75,2023-02-01,2023-02-28,PROJECT_ASSIGNMENT
+655,Internal projects,ashumilov,Aleksandr Shumilov,false,pvaynmaster,Pavel Vaynmaster,24,141.38,2023-02-01,2023-02-07,PROJECT_ASSIGNMENT
+357,Learning-Cpp,mazarenko,Mikhail Azarenko,false,pvaynmaster,Pavel Vaynmaster,24,2822.5,2023-02-01,2023-02-03,PROJECT_ASSIGNMENT
+2542,MINDEE-Python-ODC,rgrinyov,Rustam Grinyov,false,ngerasimov,Nikolay Gerasimov,144,1272,2023-02-01,2023-02-28,PROJECT_ASSIGNMENT
+2320,Marmeladz-Strike-Backend-ODC,nzavalny,Nikolaj Zavalny,false,pvaynmaster,Pavel Vaynmaster,128,336.5,2023-02-01,2023-02-22,PROJECT_ASSIGNMENT
+2403,PMO-2022,amalcev,Alexander Malcev,false,pvaynmaster,Pavel Vaynmaster,16,50.5,2023-02-01,2023-02-23,PROJECT_ASSIGNMENT
+2633,my-private-jira,pvaynmaster,Pavel Vaynmaster,false,ilnitsky,Ivan Ilnitsky,2,2,2023-02-06,2023-02-06,PROJECT_ASSIGNMENT
